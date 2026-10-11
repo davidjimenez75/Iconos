@@ -1,0 +1,22 @@
+# Sistema operativo
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.directory
+*~
+.Trash-*
+
+# Editores e IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ficheros temporales y descargas
+*.tmp
+*.bak
+*.zip
+*.crdownload
+*.part
