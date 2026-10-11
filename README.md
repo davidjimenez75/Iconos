@@ -67,6 +67,8 @@ https://raw.githubusercontent.com/davidjimenez75/Iconos/main/warning.png
 
 Los iconos de **FluentUI Emoji** son obra de **Microsoft** y se distribuyen bajo la [licencia MIT](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE). Si los redistribuyes, mantén el aviso de copyright y la licencia del autor original.
 
+El texto completo de la licencia está en el fichero [LICENSE](LICENSE).
+
 Este repositorio solo recopila y organiza los iconos. No reclama su autoría.
 
 ## Créditos
